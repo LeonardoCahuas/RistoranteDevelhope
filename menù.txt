@@ -14,6 +14,15 @@ Primi piatti:
 
 
 
+Secondi piatti
+
+- Polpette di carne
+- Roast beef
+- Medaglioni di vitello
+- Petto d'anatra
+- Calzoncini fritti
+
+
 
 Contorni:
 
@@ -23,7 +32,6 @@ Contorni:
 -Carote
 -Purè
 -Patate al forno
-
 
 
 
