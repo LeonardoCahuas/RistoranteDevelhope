@@ -3,13 +3,21 @@ Ristorante Develhope Team 1
 
 Menù Carne 
 
-primi piatti:
+Primi piatti:
 
 -pasta con ragù di cervo
 -fusilli casarecci con salsiccia, melanzane e gorgonzola
 -pasta con asparagi e pancetta
 -paccheri con funghi, carne di bovino e pesto di salvia
 -pappardelle con zucchine e guanciale croccante
+
+Secondi piatti
+
+- Polpette di carne
+- Roast beef
+- Medaglioni di vitello
+- Petto d'anatra
+- Calzoncini fritti
 
 
 Bevande:
