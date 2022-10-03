@@ -5,6 +5,7 @@ Ristorante Develhope Team 1
 Menù Carne 
 
 
+
 Antipasti:
 
 -Muffin Di Scottona, Speck , Fontina con Salsa di Parmiggiano e Zafferano       
@@ -12,6 +13,7 @@ Antipasti:
 -Prosciutto e Formaggio Semi Stagionato                                         
 -Salsiccia Nostrana all'Olio d'Oliva con Pecorino Locale Stagionato             
 -Mix di Fritti
+
 
 
 Primi piatti:
